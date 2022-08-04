@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shippro/static/css/main.081b1f96.css",
+    "main.js": "/shippro/static/js/main.799dd582.js",
+    "static/js/787.c3095267.chunk.js": "/shippro/static/js/787.c3095267.chunk.js",
+    "index.html": "/shippro/index.html",
+    "main.081b1f96.css.map": "/shippro/static/css/main.081b1f96.css.map",
+    "main.799dd582.js.map": "/shippro/static/js/main.799dd582.js.map",
+    "787.c3095267.chunk.js.map": "/shippro/static/js/787.c3095267.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.081b1f96.css",
+    "static/js/main.799dd582.js"
+  ]
+}
